@@ -1,0 +1,12 @@
+{
+    "item.blaster.blaster_fire": {
+        "category": "item",
+        "subtitle": "item.blaster.blaster_fire",
+        "sounds": [ { "name": "blaster:item/blaster/blaster_fire_01", "stream": true }, { "name": "blaster:item/blaster/blaster_fire_02", "stream": true } ]
+    },
+    "item.blaster.blaster_reload": {
+        "category": "item",
+        "subtitle": "item.blaster.blaster_reoad",
+        "sounds": [ { "name": "blaster:item/blaster/blaster_reload_01", "stream": true } ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "blaster:blaster"
+        },
+        "title": {
+            "translate": "advancements.blaster.install"
+        },
+        "description": {
+            "translate": "advancements.blaster.install.desc"
+        }
+    },
+    "parent": "survivalplus:survivalplus/root",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "requirements": [["tick"]]
+}

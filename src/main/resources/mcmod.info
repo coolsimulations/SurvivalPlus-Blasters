@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blaster",
+  "name": "SurvivalPlus Blasters",
+  "description": "This is an official add-on for SurvivalPlus and an add-on for MrCrayfish's Gun Mod that adds Blasters!",
+  "version": "0.1.0",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/survivalplus-blasters",
+  "updateUrl": "",
+  "authorList": ["coolsim"],
+  "credits": "To leviofpower, Jessen_House and Sushi_Witch who have all played a vital part in testing this mod throughout its development. Also, credit to MrCrayfish for creating MrCrayfish's Gun Mod and teaching me to mod with his 1.8 YouTube tutorial series. Credit to Sushi_Witch for the amazing Blaster and Blaster Parts models! Also, credit goes to Star Wars and Lucasfilms for Lightsaber related concepts and assets.",
+  "logoFile": "assets/blaster/textures/gui/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

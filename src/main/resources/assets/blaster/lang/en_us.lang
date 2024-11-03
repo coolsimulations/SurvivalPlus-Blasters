@@ -1,0 +1,11 @@
+sp.blaster.name=SurvivalPlus Blasters
+
+item.blaster.blaster.name=Blaster
+item.blaster.blaster_power_pack.name=Blaster Power Pack
+
+item.blaster.blaster_fire=Blaster Fire
+item.blaster.blaster_reload=Blaster Reload
+
+advancements.blaster.install=Pew Pew!
+advancements.blaster.install.desc=Download and Install SurvivalPlus Blasters
+advancements.blaster.install.display1=coolsim thanks you for downloading SurvivalPlus Blasters!
